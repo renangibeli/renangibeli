@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   <a hfer="https://gitbub.com/renangibeli" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renangibeli&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangibeli&layout=compact&langs_count=16&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renangibeli&show_icons=true&include_all_commits&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangibeli&layout=compact&langs_count=16" />
 </div>
        
